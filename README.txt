@@ -1,4 +1,4 @@
-Website for Epsilon Eta at the University of Pennsylvania.
+Website for Epsilon Eta at the University of Pennsylvania, a professional environmental fraternity.
 
 Credits:
 
